@@ -1,0 +1,2 @@
+# minig
+Free VPS
